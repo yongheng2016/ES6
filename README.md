@@ -7,3 +7,4 @@ function sum(arr) {
 }
 sum([1,2,3,4,5])  //15
 ```
++ [Set](https://github.com/yongheng2016/ES6/issues/2)
